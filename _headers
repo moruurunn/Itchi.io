@@ -3,12 +3,5 @@
   Access-Control-Allow-Methods: GET, HEAD
   Access-Control-Allow-Headers: *
 
-/webm/*
+/*
   Access-Control-Allow-Origin: *
-  Access-Control-Allow-Methods: GET, HEAD
-  Access-Control-Allow-Headers: *
-
-/Transition/*
-  Access-Control-Allow-Origin: *
-  Access-Control-Allow-Methods: GET, HEAD
-  Access-Control-Allow-Headers: *
